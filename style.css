@@ -390,7 +390,7 @@ article .icon {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  height: 110vh;
+  margin-top: 40vh;
 }
 
 .contact-info-upper-container {
